@@ -1,6 +1,5 @@
 # WinVista-XP-Software
-## These are my most used applications on WIndows XP and Vista
-If it asks to enter a password enter: mysubsarethebest
+If it asks to enter a password enter: **mysubsarethebest**
 # Files downloaded from:
 * malwarewatch.org
 * oldversion.com
